@@ -1,0 +1,8 @@
+{
+  "livePreview.autoRefreshPreview": "On Changes to Saved Files",
+  "livePreview.debugOnExternalPreview": false,
+  "livePreview.openPreviewTarget": "External Browser",
+  "livePreview.portNumber": 4000,
+  "livePreview.tasks.runTaskWithExternalPreview": true,
+  "liveServer.settings.port": 5501
+}

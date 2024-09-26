@@ -1,0 +1,74 @@
+[
+  {
+    "CODE": "1001",
+    "NAME": "食料品A",
+    "COST": 3000,
+    "PRICE": 3500,
+    "PALETTE_TYPE": "A",
+    "MAX_AMOUNT": 15,
+    "DISCOUNT_AMOUNT": 200,
+    "DISCOUNT_PERCENT": 10,
+    "EXPIRE_TERM": -1,
+    "RECYCLE_FEE": 200
+  },
+  {
+    "CODE": "1002",
+    "NAME": "食料品B",
+    "COST": 4000,
+    "PRICE": 5000,
+    "PALETTE_TYPE": "B",
+    "MAX_AMOUNT": 30,
+    "DISCOUNT_AMOUNT": 500,
+    "DISCOUNT_PERCENT": 10,
+    "EXPIRE_TERM": 3,
+    "RECYCLE_FEE": 300
+  },
+  {
+    "CODE": "2001",
+    "NAME": "雑貨A",
+    "COST": 4500,
+    "PRICE": 5000,
+    "PALETTE_TYPE": "A",
+    "MAX_AMOUNT": 10,
+    "DISCOUNT_AMOUNT": -1,
+    "DISCOUNT_PERCENT": -1,
+    "EXPIRE_TERM": -1,
+    "RECYCLE_FEE": 200
+  },
+  {
+    "CODE": "2002",
+    "NAME": "雑貨B",
+    "COST": 6000,
+    "PRICE": 7000,
+    "PALETTE_TYPE": "A",
+    "MAX_AMOUNT": 20,
+    "DISCOUNT_AMOUNT": -1,
+    "DISCOUNT_PERCENT": -1,
+    "EXPIRE_TERM": 5,
+    "RECYCLE_FEE": 500
+  },
+  {
+    "CODE": "3001",
+    "NAME": "家電A",
+    "COST": 35000,
+    "PRICE": 50000,
+    "PALETTE_TYPE": "C",
+    "MAX_AMOUNT": 5,
+    "DISCOUNT_AMOUNT": 20,
+    "DISCOUNT_PERCENT": 10,
+    "EXPIRE_TERM": 8,
+    "RECYCLE_FEE": 3000
+  },
+  {
+    "CODE": "3002",
+    "NAME": "家電B",
+    "COST": 120000,
+    "PRICE": 150000,
+    "PALETTE_TYPE": "D",
+    "MAX_AMOUNT": 3,
+    "DISCOUNT_AMOUNT": 10,
+    "DISCOUNT_PERCENT": 10,
+    "EXPIRE_TERM": 8,
+    "RECYCLE_FEE": 4500
+  }
+]
